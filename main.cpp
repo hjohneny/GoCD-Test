@@ -1,9 +1,5 @@
-//Project 2 DSA by:
-//Kevin Su Kai Ching (66359)
-//Hendrix Travers Aloi (64768)
-//Fariq Adzli bin Mohammad Basri (64737)
-//Nurul Zahirah binti Osman (68310)
-//Mishen Haniza Henry (66649)
+//Project
+//Hendrix Travers Aloi 
 //*****************************************************************************************************************************
 #include <iostream>
 #include <stdlib.h>
